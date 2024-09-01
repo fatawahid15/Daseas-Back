@@ -1,0 +1,65 @@
+[
+  {
+    "id":1,
+    "username": "Admin",
+    "email": "admin@gmail.com",
+    "password": "adminpass",
+    "role": "Admin",
+    "phoneNumber": "123456789",
+    "address": "Somewhere"
+  },
+  {
+    "id":2,
+    "username": "Staff",
+    "email": "staff@gmail.com",
+    "password": "Staffpass",
+    "role": "Staff",
+    "phoneNumber": "123456789",
+    "address": "Somewhere"
+  },
+  {
+    "id": 3,
+    "username": "wkemery0",
+    "email": "rkosel0@uol.com.br",
+    "password": "123admin1",
+    "role": "Admin",
+    "phoneNumber": "851-828-6032",
+    "address": "10th Floor"
+  },
+  {
+    "id": 4,
+    "username": "amackley1",
+    "email": "ejankowski1@google.com.br",
+    "password": "123admin2",
+    "role": "Admin",
+    "phoneNumber": "108-207-3774",
+    "address": "Apt 950"
+  },
+  {
+    "id": 5,
+    "username": "atheis2",
+    "email": "kmathias2@phpbb.com",
+    "password": "123admin3",
+    "role": "Admin",
+    "phoneNumber": "942-644-7864",
+    "address": "Apt 1515"
+  },
+  {
+    "id": 6,
+    "username": "wbrazelton3",
+    "email": "kpainswick3@about.com",
+    "password": "123admin4",
+    "role": "Admin",
+    "phoneNumber": "904-245-2644",
+    "address": "Suite 10"
+  },
+  {
+    "id": 7,
+    "username": "welsmore4",
+    "email": "arengger4@google.co.jp",
+    "password": "123admin5",
+    "role": "Admin",
+    "phoneNumber": "504-441-0843",
+    "address": "PO Box 67260"
+  }
+]

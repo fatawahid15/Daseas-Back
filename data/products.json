@@ -1,0 +1,252 @@
+[
+  {
+      "id": 1,
+      "name": "Heavyweight Short Sleeve Pocket T-Shirt",
+      "description": "Its classic style is great for your workday and beyond. The 100% cotton heavyweight jersey fabric is built to last, and gets softer as it does.",
+      "price": 2350000,
+      "stock": 2667,
+      "imgUrl": "https://www.dickies.com/dw/image/v2/AAYI_PRD/on/demandware.static/-/Sites-master-catalog-dickies/default/dw6dc4c9b0/images/main/WS450_BY_FR.jpg?sw=692&sh=692&sm=cut&q=40",
+      "categoryId": 1,
+      "authorId": 1
+  },
+  {
+      "id": 2,
+      "name": "Loose Fit Multi-Use Pocket Work Shorts",
+      "description": "Featuring a longer fit 15' inseam, these shorts hit comfortably below the knees.",
+      "price": 543400,
+      "stock": 2239,
+      "imgUrl": "https://www.dickies.com/dw/image/v2/AAYI_PRD/on/demandware.static/-/Sites-master-catalog-dickies/default/dw21546eac/images/main/41283_KH_FR.jpg?sw=692&sh=692&sm=cut&q=40",
+      "categoryId": 2,
+      "authorId": 2
+  },
+  {
+      "id": 3,
+      "name": "Unlined Eisenhower Jacket",
+      "description": "From its military roots, it has since continued to evolve to become a mainstay in authentic workwear styling.",
+      "price": 750540,
+      "stock": 1180,
+      "imgUrl": "https://www.dickies.com/dw/image/v2/AAYI_PRD/on/demandware.static/-/Sites-master-catalog-dickies/default/dw74c4c162/images/main/JT75_CH_FR.jpg?sw=692&sh=692&sm=cut&q=40",
+      "categoryId": 3,
+      "authorId": 3
+  },
+  {
+      "id": 4,
+      "name": "FLEX Regular Fit Cargo Pants",
+      "description": "They move like cargo pants, but look like a stylish pair of slacks. That's impressive versatility, from jobsite to office real quick.",
+      "price": 455005,
+      "stock": 5823,
+      "imgUrl": "https://www.dickies.com/dw/image/v2/AAYI_PRD/on/demandware.static/-/Sites-master-catalog-dickies/default/dw0d96c0f3/images/main/WP595_MR1_FR.jpg?sw=692&sh=692&sm=cut&q=40",
+      "categoryId": 4,
+      "authorId": 4
+  },
+  {
+      "id": 5,
+      "name": "Duck Insulated Coveralls",
+      "description": "The heavy-duty lining protects you from cold and impact, while the triple needle stitching, double knees, and reinforced back hem resist rips.",
+      "price": 1543450,
+      "stock": 1266,
+      "imgUrl": "https://www.dickies.com/dw/image/v2/AAYI_PRD/on/demandware.static/-/Sites-master-catalog-dickies/default/dw99b57b72/images/main/TV239_BD_FR.jpg?sw=692&sh=692&sm=cut&q=40",
+      "categoryId": 5,
+      "authorId": 5
+  },
+  {
+      "id": 6,
+      "name": "Long Sleeve Work Shirt",
+      "description": "This shirt has a clean, professional look with a comfortable and durable fit.",
+      "price": 625000,
+      "stock": 3200,
+      "imgUrl": "https://www.dickies.com/dw/image/v2/AAYI_PRD/on/demandware.static/-/Sites-master-catalog-dickies/default/dw9c3b2dfc/images/main/574BK.jpg?sw=692&sh=692&sm=cut&q=40",
+      "categoryId": 1,
+      "authorId": 2
+  },
+  {
+      "id": 7,
+      "name": "Relaxed Fit Carpenter Jeans",
+      "description": "These jeans offer a relaxed fit through the seat and thigh, with extra room for movement.",
+      "price": 789000,
+      "stock": 1975,
+      "imgUrl": "https://www.dickies.com/dw/image/v2/AAYI_PRD/on/demandware.static/-/Sites-master-catalog-dickies/default/dwe2438d91/images/main/1993SNB.jpg?sw=692&sh=692&sm=cut&q=40",
+      "categoryId": 2,
+      "authorId": 3
+  },
+  {
+      "id": 8,
+      "name": "Fleece Lined Hooded Jacket",
+      "description": "Stay warm and protected in this durable hooded jacket with fleece lining.",
+      "price": 1250000,
+      "stock": 1570,
+      "imgUrl": "https://www.dickies.com/dw/image/v2/AAYI_PRD/on/demandware.static/-/Sites-master-catalog-dickies/default/dw5791b960/images/main/TJ376BD.jpg?sw=692&sh=692&sm=cut&q=40",
+      "categoryId": 3,
+      "authorId": 4
+  },
+  {
+      "id": 9,
+      "name": "Stretch Twill Work Pant",
+      "description": "With a hint of stretch, these pants move with you while keeping a polished look.",
+      "price": 950000,
+      "stock": 2600,
+      "imgUrl": "https://www.dickies.com/dw/image/v2/AAYI_PRD/on/demandware.static/-/Sites-master-catalog-dickies/default/dw299a4f45/images/main/FP775_BK_FR.jpg?sw=692&sh=692&sm=cut&q=40",
+      "categoryId": 4,
+      "authorId": 5
+  },
+  {
+      "id": 10,
+      "name": "Insulated Bib Overalls",
+      "description": "These overalls offer warmth and protection in the coldest conditions.",
+      "price": 2200000,
+      "stock": 1050,
+      "imgUrl": "https://www.dickies.com/dw/image/v2/AAYI_PRD/on/demandware.static/-/Sites-master-catalog-dickies/default/dw3e7f7691/images/main/TV239_RB_FR.jpg?sw=692&sh=692&sm=cut&q=40",
+      "categoryId": 5,
+      "authorId": 1
+  },
+  {
+      "id": 11,
+      "name": "Lightweight Performance T-Shirt",
+      "description": "A moisture-wicking t-shirt that keeps you cool and comfortable all day.",
+      "price": 350000,
+      "stock": 3320,
+      "imgUrl": "https://www.dickies.com/dw/image/v2/AAYI_PRD/on/demandware.static/-/Sites-master-catalog-dickies/default/dw4a1b760b/images/main/WS450_AG_FR.jpg?sw=692&sh=692&sm=cut&q=40",
+      "categoryId": 1,
+      "authorId": 3
+  },
+  {
+      "id": 12,
+      "name": "Double Knee Work Pants",
+      "description": "Built to last, these pants feature reinforced knees for added durability.",
+      "price": 860000,
+      "stock": 2730,
+      "imgUrl": "https://www.dickies.com/dw/image/v2/AAYI_PRD/on/demandware.static/-/Sites-master-catalog-dickies/default/dw0b1cfdb1/images/main/WP873DN.jpg?sw=692&sh=692&sm=cut&q=40",
+      "categoryId": 4,
+      "authorId": 2
+  },
+  {
+      "id": 13,
+      "name": "Sherpa Lined Denim Jacket",
+      "description": "This denim jacket is lined with Sherpa for added warmth during the colder months.",
+      "price": 1650000,
+      "stock": 1200,
+      "imgUrl": "https://www.dickies.com/dw/image/v2/AAYI_PRD/on/demandware.static/-/Sites-master-catalog-dickies/default/dw134f33c6/images/main/TJ203_SN_FR.jpg?sw=692&sh=692&sm=cut&q=40",
+      "categoryId": 3,
+      "authorId": 4
+  },
+  {
+      "id": 14,
+      "name": "Relaxed Fit Cargo Shorts",
+      "description": "These cargo shorts provide ample pocket space and a comfortable fit.",
+      "price": 520000,
+      "stock": 2480,
+      "imgUrl": "https://www.dickies.com/dw/image/v2/AAYI_PRD/on/demandware.static/-/Sites-master-catalog-dickies/default/dw5d6a7872/images/main/WR849DN.jpg?sw=692&sh=692&sm=cut&q=40",
+      "categoryId": 2,
+      "authorId": 5
+  },
+  {
+      "id": 15,
+      "name": "Fleece Pullover Hoodie",
+      "description": "This soft fleece hoodie is perfect for layering and keeping warm.",
+      "price": 750000,
+      "stock": 2985,
+      "imgUrl": "https://www.dickies.com/dw/image/v2/AAYI_PRD/on/demandware.static/-/Sites-master-catalog-dickies/default/dw573e04cc/images/main/TJ401_BK_FR.jpg?sw=692&sh=692&sm=cut&q=40",
+      "categoryId": 1,
+      "authorId": 4
+  },
+  {
+      "id": 16,
+      "name": "Workwear Chinos",
+      "description": "These chinos offer a clean, professional look with the durability needed for work.",
+      "price": 890000,
+      "stock": 3150,
+      "imgUrl": "https://www.dickies.com/dw/image/v2/AAYI_PRD/on/demandware.static/-/Sites-master-catalog-dickies/default/dw90b1c4c7/images/main/FP775KH.jpg?sw=692&sh=692&sm=cut&q=40",
+      "categoryId": 4,
+      "authorId": 1
+  },
+  {
+      "id": 17,
+      "name": "Thermal Lined Fleece Jacket",
+      "description": "This jacket combines fleece comfort with thermal lining for extra warmth.",
+      "price": 1350000,
+      "stock": 1380,
+      "imgUrl": "https://www.dickies.com/dw/image/v2/AAYI_PRD/on/demandware.static/-/Sites-master-catalog-dickies/default/dwb94ae558/images/main/TJ350_BK_FR.jpg?sw=692&sh=692&sm=cut&q=40",
+      "categoryId": 3,
+      "authorId": 2
+  },
+  {
+      "id": 18,
+      "name": "Workwear Polo Shirt",
+      "description": "A durable polo shirt that looks great in the office or on the job.",
+      "price": 650000,
+      "stock": 3080,
+      "imgUrl": "https://www.dickies.com/dw/image/v2/AAYI_PRD/on/demandware.static/-/Sites-master-catalog-dickies/default/dw2a5733e0/images/main/KS555_BK_FR.jpg?sw=692&sh=692&sm=cut&q=40",
+      "categoryId": 1,
+      "authorId": 5
+  },
+  {
+      "id": 19,
+      "name": "Relaxed Fit Carpenter Shorts",
+      "description": "These shorts offer a relaxed fit through the seat and thigh, with extra room for movement.",
+      "price": 565000,
+      "stock": 2100,
+      "imgUrl": "https://www.dickies.com/dw/image/v2/AAYI_PRD/on/demandware.static/-/Sites-master-catalog-dickies/default/dw7dcb5bd2/images/main/WR857KH.jpg?sw=692&sh=692&sm=cut&q=40",
+      "categoryId": 2,
+      "authorId": 4
+  },
+  {
+      "id": 20,
+      "name": "Duck Canvas Jacket",
+      "description": "This jacket offers rugged durability with a classic canvas construction.",
+      "price": 1850000,
+      "stock": 1650,
+      "imgUrl": "https://www.dickies.com/dw/image/v2/AAYI_PRD/on/demandware.static/-/Sites-master-catalog-dickies/default/dw33ef33a2/images/main/TC377_BK_FR.jpg?sw=692&sh=692&sm=cut&q=40",
+      "categoryId": 3,
+      "authorId": 1
+  },
+  {
+      "id": 21,
+      "name": "Workwear Utility Vest",
+      "description": "This utility vest provides multiple pockets and a durable design for work.",
+      "price": 1300000,
+      "stock": 1785,
+      "imgUrl": "https://www.dickies.com/dw/image/v2/AAYI_PRD/on/demandware.static/-/Sites-master-catalog-dickies/default/dwa3cba742/images/main/TW382_BK_FR.jpg?sw=692&sh=692&sm=cut&q=40",
+      "categoryId": 5,
+      "authorId": 2
+  },
+  {
+      "id": 22,
+      "name": "Performance Stretch Work Pants",
+      "description": "These pants offer a perfect blend of stretch and durability for a long workday.",
+      "price": 935000,
+      "stock": 2890,
+      "imgUrl": "https://www.dickies.com/dw/image/v2/AAYI_PRD/on/demandware.static/-/Sites-master-catalog-dickies/default/dwe2c33a0d/images/main/WP873_BK_FR.jpg?sw=692&sh=692&sm=cut&q=40",
+      "categoryId": 4,
+      "authorId": 3
+  },
+  {
+      "id": 23,
+      "name": "Water-Resistant Softshell Jacket",
+      "description": "Stay dry and comfortable with this water-resistant jacket designed for all-day wear.",
+      "price": 1450000,
+      "stock": 1325,
+      "imgUrl": "https://www.dickies.com/dw/image/v2/AAYI_PRD/on/demandware.static/-/Sites-master-catalog-dickies/default/dw4b6f8cb3/images/main/TJ350_NY_FR.jpg?sw=692&sh=692&sm=cut&q=40",
+      "categoryId": 3,
+      "authorId": 5
+  },
+  {
+      "id": 24,
+      "name": "Relaxed Fit Utility Pants",
+      "description": "These utility pants offer a relaxed fit with plenty of pockets for tools and essentials.",
+      "price": 820000,
+      "stock": 2940,
+      "imgUrl": "https://www.dickies.com/dw/image/v2/AAYI_PRD/on/demandware.static/-/Sites-master-catalog-dickies/default/dwe6a5b8b1/images/main/WP826_BK_FR.jpg?sw=692&sh=692&sm=cut&q=40",
+      "categoryId": 4,
+      "authorId": 4
+  },
+  {
+      "id": 25,
+      "name": "Fleece Lined Beanie",
+      "description": "A warm and comfortable beanie with fleece lining for cold weather.",
+      "price": 250000,
+      "stock": 4750,
+      "imgUrl": "https://www.dickies.com/dw/image/v2/AAYI_PRD/on/demandware.static/-/Sites-master-catalog-dickies/default/dw97b3e04c/images/main/WH432SN.jpg?sw=692&sh=692&sm=cut&q=40",
+      "categoryId": 5,
+      "authorId": 1
+  }
+]
