@@ -5,6 +5,7 @@ Daseas is an application for people to who want to buy cloths:
 
 &nbsp;
 
+# Not active because of limit from AWS
 >Url: http://www.daseas.cloud/
 
 # RESTful endpoints
